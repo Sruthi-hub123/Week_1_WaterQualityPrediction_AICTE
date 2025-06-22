@@ -10,10 +10,10 @@ In this project, we:
 # Technologies Used
 # Python 3.12
 
-# Pandas, NumPy – Data handling
+#*Pandas, NumPy – Data handling
 
-# Scikit-learn – Machine learning model and evaluation
+#*Scikit-learn – Machine learning model and evaluation
 
-# Matplotlib, Seaborn – Data visualization
+# *Matplotlib, Seaborn – Data visualization
 
-# Jupyter Notebook – Interactive experimentation
+# Jupyter NotebookInteractive experimentation
